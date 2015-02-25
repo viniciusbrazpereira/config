@@ -35,6 +35,9 @@ define('DB_COLLATE', '');
 
 define('FS_METHOD', 'direct');
 
+/** File Size 100M. */
+define('UPLOAD_MAX_FILESIZE', '100M');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
